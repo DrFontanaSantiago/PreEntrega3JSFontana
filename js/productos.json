@@ -1,0 +1,154 @@
+[
+    {
+        "id": "bermuda-01",
+        "titulo": "Bermuda 01",
+        "imagen": "./img/bermudas/01.webp",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 53000
+    },
+    {
+        "id": "bermuda-02",
+        "titulo": "Bermuda 02",
+        "imagen": "./img/bermudas/02.jpg",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 56000
+    },
+    {
+        "id": "bermuda-03",
+        "titulo": "Bermuda 03",
+        "imagen": "./img/bermudas/03.jpg",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "bermuda-04",
+        "titulo": "Bermuda 04",
+        "imagen": "./img/bermudas/04.webp",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 44000
+    },
+
+    {
+        "id": "torso-01",
+        "titulo": "Torso 01",
+        "imagen": "./img/torso/01.webp",
+        "categoria": {
+            "nombre": "Torso",
+            "id": "torso"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "torso-02",
+        "titulo": "Torso 02",
+        "imagen": "./img/torso/02.jpg",
+        "categoria": {
+            "nombre": "Torso",
+            "id": "torso"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "torso-03",
+        "titulo": "Torso 03",
+        "imagen": "./img/torso/03.jpg",
+        "categoria": {
+            "nombre": "Torso",
+            "id": "torso"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "torso-04",
+        "titulo": "Torso 04",
+        "imagen": "./img/torso/04.jpg",
+        "categoria": {
+            "nombre": "Torso",
+            "id": "torso"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "torso-05",
+        "titulo": "Torso 05",
+        "imagen": "./img/torso/05.webp",
+        "categoria": {
+            "nombre": "Torso",
+            "id": "torso"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-01",
+        "titulo": "Accesorios 01",
+        "imagen": "./img/accesorios/01.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-02",
+        "titulo": "Accesorios 02",
+        "imagen": "./img/accesorios/02.webp",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-03",
+        "titulo": "Accesorios 03",
+        "imagen": "./img/accesorios/03.webp",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-04",
+        "titulo": "Accesorios 04",
+        "imagen": "./img/accesorios/04.webp",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-05",
+        "titulo": "Accesorios 05",
+        "imagen": "./img/accesorios/05.webp",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorios-06",
+        "titulo": "Accesorios 06",
+        "imagen": "./img/accesorios/06.webp",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    }
+
+]
